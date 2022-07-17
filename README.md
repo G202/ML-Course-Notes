@@ -145,3 +145,5 @@ If you encounter any problems with the notes? Reach out to the authors of the no
 If you have any questions, open an issue or reach out to me on [Twitter](https://twitter.com/omarsar0).
 
 Join our [Discord](https://discord.gg/FzNtjEK9dg). 
+
+GC NOTE: Identify PR (Pull Request) Process and update main branch protection (Outstanding)
